@@ -9,10 +9,10 @@
 
 ### Core Engineering Projects
 
-| Project | Key Architecture & Technical Focus | References |
+| Project | Key Architecture & Technical Focus | Live Demo |
 | :--- | :--- | :---: |
-| **UAM Density Control** | MQTT ingestion · Redis ZSET priority landing scheduling · TimescaleDB partitioning | [Case Study](https://your-portfolio-url.com#side-project-1-detail) |
-| **Lithium Supply Chain Navigator** | HHI/WGI risk index modeling · In-memory RAG · Dijkstra rerouting engine | [Overview](https://your-portfolio-url.com#side-project-2) |
+| **UAM Density Control** | MQTT ingestion · Redis ZSET priority landing scheduling · TimescaleDB partitioning | [Live Demo](https://uam.somstudio.link/) |
+| **Lithium Supply Chain Navigator** | HHI/WGI risk index modeling · In-memory RAG · Dijkstra rerouting engine | [Live Demo](https://lithium.somstudio.link/) |
 | **Zero-Touch Pill Tracker** | 6-axis IMU DSP filtering · 3-State FSM · In-memory deque session ring buffer (95% I/O reduction) | [Live Demo](https://pill.somstudio.link/) |
 | **Tuna Cold Chain Ledger** | -55°C ultra-low temp telemetry stream · Keccak256 checkpoint verification · EVM on-chain state | [Live Demo](https://tuna.somstudio.link/) |
 
