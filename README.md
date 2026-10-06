@@ -3,7 +3,7 @@
 
 > Specializing in high-throughput real-time pipelines, distributed architectures, and zero-friction data systems.
 
-[Portfolio](https://your-portfolio-url.com) · [Contact](mailto:esominkr@gmail.com)
+[Portfolio](https://esomin.com) · [Contact](mailto:esominkr@gmail.com)
 
 ---
 
